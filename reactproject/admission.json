@@ -1,0 +1,20 @@
+{
+  "admission": [
+    {
+      "firstName": "chinni",
+      "middleName": "c",
+      "lastName": "kushi",
+      "collegeName": "jfhef",
+      "passOutYear": "2023-12-01",
+      "id": 1
+    },
+    {
+      "firstName": "ayesha",
+      "middleName": "khan",
+      "lastName": "m",
+      "collegeName": "besant",
+      "passOutYear": "2023-12-13",
+      "id": 2
+    }
+  ]
+}

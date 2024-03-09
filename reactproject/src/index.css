@@ -1,0 +1,45 @@
+.navbar-style{
+  background-color:  rgb(188, 242, 235);
+}
+
+.img-style{
+  height: 50px;
+  width: 50px;
+}
+
+.logo-name-style{
+  margin-top: -1.7rem;
+  margin-left: 3.2rem;
+}
+*{
+ font-family: 'Times New Roman', Times, serif;
+}
+main{
+  min-height: 80vh;
+}
+footer{
+  background-color: rgb(188, 242, 235);
+}
+.slide-image-style{
+  height: 500px;
+}
+.p-style{
+  text-align: justify;
+}
+td,th{
+  text-align: center;
+}
+.abt-img1{
+  width: 523px;
+  height: 283px;
+}
+.abt-img2{
+  height: 280px;
+}
+.abt-img3{
+  height: 290px;
+  width: 520px;
+}
+.abt-p{
+  text-align: justify;
+}
